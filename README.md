@@ -134,7 +134,19 @@ For more details and to replicate the experiment, [please go to this page](exp/h
 Micro-benchmarks and improved benchmark programs are decoupled from the implementation of JITProf.
 Those experimental code and dataset are available in [JITProf v1.0](https://github.com/Berkeley-Correctness-Group/Jalangi-Berkeley/tree/master/src/js/analyses/jitaware).
 
-License
--------
+License and Citation
+--------------------
 
 JITProf is distributed under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+Citation
+------------------------------
+
+Please cite JITProf in your publications if it helps your research:
+
+	@INPROCEEDINGS{fse2015,
+	  author = {Liang Gong and Michael Pradel and Koushik Sen},
+	  title = {{JITProf}: Pinpointing {JIT}-Unfriendly {JavaScript} Code},
+	  booktitle = {European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)},
+	  year = {2015}
+	}
