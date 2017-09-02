@@ -141,7 +141,7 @@ JITProf is distributed under the [Apache License](http://www.apache.org/licenses
 
 Please cite JITProf in your publications if it helps your research:
 
-	@INPROCEEDINGS{fse2015,
+	@INPROCEEDINGS{gong2015jitprof,
 	  author = {Liang Gong and Michael Pradel and Koushik Sen},
 	  title = {{JITProf}: Pinpointing {JIT}-Unfriendly {JavaScript} Code},
 	  booktitle = {European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)},
