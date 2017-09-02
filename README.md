@@ -139,9 +139,6 @@ License and Citation
 
 JITProf is distributed under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-Citation
-------------------------------
-
 Please cite JITProf in your publications if it helps your research:
 
 	@INPROCEEDINGS{fse2015,
